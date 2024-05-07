@@ -23,6 +23,11 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
   ✉️
 </a>
 
+* <a href="mailto:surjendud4@gmail.com" style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+  ✉️ Email
+</a>
+
+
 
 
 
