@@ -12,24 +12,6 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Tools and Languages
 
-<style>
-  /* Define colors */
-  .excel {
-    background-color: #00703c; /* Deep green */
-    color: white; /* Text color */
-  }
-
-  .power-bi {
-    background-color: #ffb400; /* Yellow */
-    color: black; /* Text color */
-  }
-
-  .sql {
-    background-color: #00a0e9; /* Light blue */
-    color: white; /* Text color */
-  }
-</style>
-
 <a href="#" class="excel">
   <img src="d-icon-microsoft+excel-1331135715061110002_16" alt="Excel" title="Excel" width="50px" height="50px" />
   Excel
