@@ -12,21 +12,9 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Tools and Languages
 
-<a href="#" class="excel">
-  <img src="d-icon-microsoft+excel-1331135715061110002_16" alt="Excel" title="Excel" width="50px" height="50px" />
-  Excel
-</a>
-
-<a href="#" class="sql">
-  <img src="download-icon-file+sql+icon-1320183612970878250_16" alt="SQL" title="SQL" width="50px" height="50px" />
-  SQL
-</a>
-
-<a href="#" class="power-bi">
-  <img src="download-icon-powerbi-1324440216234987756_16" alt="Power BI" title="Power BI" width="50px" height="50px" />
-  Power BI
-</a>
-
+* Power BI
+* Excel
+* SQL
 
 <!---
 Surjendud4/Surjendud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
