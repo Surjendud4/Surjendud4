@@ -19,6 +19,9 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
 * ![postgre-sql-logo-16-7-en](https://github.com/Surjendud4/Surjendud4/assets/168835348/0df4e83c-8508-4644-96d7-f254036fcd17)
 
+* ![postgre-sql-logo-16-7-en (2)](https://github.com/Surjendud4/Surjendud4/assets/168835348/8474936a-35b6-43ac-a30a-2d24a0b61508)
+
+
 
 
 
