@@ -28,11 +28,12 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 </a>
 
 
-* <a href="mailto:surjendud4@gmail.comm" style="text-decoration: none;">
-  <div style="background-color: #FF0000; padding: 10px 20px; border-radius: 5px; display: inline-block;">
-    ✉️ Email
+* <a href="mailto:surjendud4@gmail.com" style="text-decoration: none;">
+  <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block;">
+    <span style="color: red;">✉️</span> Email
   </div>
 </a>
+
 
 
 
