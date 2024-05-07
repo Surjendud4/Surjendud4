@@ -20,7 +20,7 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
   # Let's Connect
 
   <a href="surjendud4@gmail.com">
-  <img src="C:\Users\Surjendu\Pictures\Email.PNG" alt="Email Me" />
+  < alt="Email Me" />
 </a>
 
 
