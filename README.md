@@ -31,17 +31,17 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 </style>
 
 <a href="#" class="excel">
-  <img src="icons/excel_icon.png" alt="Excel" title="Excel" width="50px" height="50px" />
+  <img src="d-icon-microsoft+excel-1331135715061110002_16" alt="Excel" title="Excel" width="50px" height="50px" />
   Excel
 </a>
 
 <a href="#" class="sql">
-  <img src="icons/sql_icon.png" alt="SQL" title="SQL" width="50px" height="50px" />
+  <img src="download-icon-file+sql+icon-1320183612970878250_16" alt="SQL" title="SQL" width="50px" height="50px" />
   SQL
 </a>
 
 <a href="#" class="power-bi">
-  <img src="icons/power_bi_icon.png" alt="Power BI" title="Power BI" width="50px" height="50px" />
+  <img src="download-icon-powerbi-1324440216234987756_16" alt="Power BI" title="Power BI" width="50px" height="50px" />
   Power BI
 </a>
 
