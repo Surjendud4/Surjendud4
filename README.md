@@ -12,17 +12,39 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Tools and Languages
 
-  <a href="#">
+<style>
+  /* Define colors */
+  .excel {
+    background-color: #00703c; /* Deep green */
+    color: white; /* Text color */
+  }
+
+  .power-bi {
+    background-color: #ffb400; /* Yellow */
+    color: black; /* Text color */
+  }
+
+  .sql {
+    background-color: #00a0e9; /* Light blue */
+    color: white; /* Text color */
+  }
+</style>
+
+<a href="#" class="excel">
   <img src="icons/excel_icon.png" alt="Excel" title="Excel" width="50px" height="50px" />
+  Excel
 </a>
 
-<a href="#">
+<a href="#" class="sql">
   <img src="icons/sql_icon.png" alt="SQL" title="SQL" width="50px" height="50px" />
+  SQL
 </a>
 
-<a href="#">
+<a href="#" class="power-bi">
   <img src="icons/power_bi_icon.png" alt="Power BI" title="Power BI" width="50px" height="50px" />
+  Power BI
 </a>
+
 
 <!---
 Surjendud4/Surjendud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
