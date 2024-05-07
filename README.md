@@ -23,11 +23,13 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
   Email
 </a>
 
-* <a href="www.linkedin.com/in/surjendu-das-insight-architect" style="text-decoration: none;">
+* <a href="https://www.linkedin.com/in/surjendu-das-insight-architect" style="text-decoration: none;">
   <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block;">
     LinkedIn
   </div>
 </a>
+
+Explore my repositories, where each line of code holds a story waiting to be told. Whether you're seeking inspiration or just want to exchange greetings, my digital doorstep is always open. Feel free to drop by and say hello!
 
 
 
