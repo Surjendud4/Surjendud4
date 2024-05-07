@@ -10,6 +10,14 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 * 💼 I seek to weave a tapestry of insights that redefine possibilities.
 * 🔍 Eagerly exploring avenues to showcase my prowess and passion.
 
+  # Tools and Languages
+
+  Excel
+PowerBI
+MySQL
+Python
+WordPress
+
 <!---
 Surjendud4/Surjendud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
