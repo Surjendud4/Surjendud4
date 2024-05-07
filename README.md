@@ -4,7 +4,7 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
 # About
 
-* 🌟 "Embarking on the journey as an Aspiring Data Analyst.
+* 🌟 Embarking on the journey as an Aspiring Data Analyst.
 * 🌱 I endeavor to carve my mark in the realm of data analytics.
 * 🎓 Holding a Bachelor of Science degree.
 * 💼 I seek to weave a tapestry of insights that redefine possibilities.
