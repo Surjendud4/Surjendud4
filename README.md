@@ -19,10 +19,9 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Let's Connect
 
-* <a href="surjendud4@gmail.com">
+* <a href="mailto:surjendud4@gmail.com">
   ✉️
 </a>
-
 
 
 
