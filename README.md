@@ -11,9 +11,7 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 * 🔍 Eagerly exploring avenues to showcase my prowess and passion.
 
   # Tools and Languages
-
-  * https://camo.githubusercontent.com/80c021e1604a86ed1eeacb11ff4a2f6bd5b4862de3604076b67a08bb8a4eb7bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657242492d4632433831313f7374796c653d666c61742d737175617265266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b
-
+  
 * Power BI
 * Excel
 * SQL
