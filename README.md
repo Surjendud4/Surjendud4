@@ -18,34 +18,10 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 * ![postgre-sql-logo-16-7-en (2)](https://github.com/Surjendud4/Surjendud4/assets/168835348/8474936a-35b6-43ac-a30a-2d24a0b61508)
 
   # Let's Connect
-
-* <a href="mailto:surjendud4@gmail.com">
-  ✉
-</a>
-
+  
 * <a href="mailto:surjendud4@gmail.com" style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
   ✉️ Email
 </a>
-
-
-* <a href="mailto:surjendud4@gmail.com" style="text-decoration: none;">
-  <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block;">
-    <span style="color: red; font-size: larger;">✉️</span> Email
-  </div>
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!---
