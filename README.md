@@ -12,11 +12,9 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Tools and Languages
 
-  Excel
-PowerBI
-MySQL
-Python
-WordPress
+  (Excel)
+  (PowerBI)
+  (MySQL)
 
 <!---
 Surjendud4/Surjendud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
