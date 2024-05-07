@@ -11,6 +11,9 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 * 🔍 Eagerly exploring avenues to showcase my prowess and passion.
 
   # Tools and Languages
+
+  ![a1](https://github.com/Surjendud4/Surjendud4/assets/168835348/69872ad9-8bd8-47e0-865a-d3145853019a)
+
   
 * Power BI
 * Excel
