@@ -15,7 +15,8 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
 * ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457863656c2d3231373334363f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465](https://github.com/Surjendud4/Surjendud4/assets/168835348/22a62a4a-76dd-45c8-b66d-7381fbbf0f57)
 
-* ![postgre-sql-logo-16-7-en (5)](https://github.com/Surjendud4/Surjendud4/assets/168835348/8976ad4a-c7b4-45a3-bbbd-30e89fceae9a)
+* ![postgre-sql-logo-16-7-en (5) (1)](https://github.com/Surjendud4/Surjendud4/assets/168835348/a70b68d7-baae-4a28-9eab-28aedb3ff213)
+
 
 
 
