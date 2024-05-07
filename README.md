@@ -29,6 +29,13 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
   </div>
 </a>
 
+* <a href="www.linkedin.com/in/surjendu-das-insight-architect" style="text-decoration: none;">
+  <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block;">
+    LinkedIn
+  </div>
+</a>
+
+
 
 
 <!---
