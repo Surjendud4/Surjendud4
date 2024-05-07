@@ -16,11 +16,13 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
   <img src="icons/excel_icon.png" alt="Excel" title="Excel" width="50px" height="50px" />
 </a>
 
-  (Excel)
-  
-  (PowerBI)
-  
-  (MySQL)
+<a href="#">
+  <img src="icons/sql_icon.png" alt="SQL" title="SQL" width="50px" height="50px" />
+</a>
+
+<a href="#">
+  <img src="icons/power_bi_icon.png" alt="Power BI" title="Power BI" width="50px" height="50px" />
+</a>
 
 <!---
 Surjendud4/Surjendud4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
