@@ -12,8 +12,14 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
   # Tools and Languages
 
+  <a href="#">
+  <img src="icons/excel_icon.png" alt="Excel" title="Excel" width="50px" height="50px" />
+</a>
+
   (Excel)
+  
   (PowerBI)
+  
   (MySQL)
 
 <!---
