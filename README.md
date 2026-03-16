@@ -21,7 +21,7 @@ Enter the gates of my GitHub realm! Within, I ardently champion the transformati
 
 * ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 
-*  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps.svg" width="120">
+*  ![Power Apps](https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps.svg)
 
   # Let's Connect
   
